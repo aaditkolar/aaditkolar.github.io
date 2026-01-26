@@ -1,12 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Aadit Kolar",
+    "label": "Student",
+    "image": "assets/img/prof_pic.jpg",
+    "email": "aaditvk2@illinois.edu",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -14,23 +11,19 @@
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Structural Dynamics and Aeroelasticity Research Laboratory",
+      "position": "Summer Research Intern",
+      "startDate": "May 2025",
+      "endDate": "July 2025",
+      "highlights": [
+        "Implemented medium fidelity aeroelastic flutter prediction models in MATLAB to enable Multidisciplinary Design Optimization",
+        "Expanded analyses from quasi-steady (time-invariant) to unsteady (time-variant) flow assumptions using downwash lag model",
+        "Verified Limit-Cycle Oscillation (LCO) behaviour using time and frequency domain analyses"
+      ]
     }
   ],
   "volunteer": [

@@ -4,4 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - leadsgroup/RCAIDE_LEADS
   - leadsgroup/RCAIDE_GUI
+  - leadsgroup/RCAIDE_Lattice_Boltzman_Method
+  - supercoder186/XSharedCockpit
