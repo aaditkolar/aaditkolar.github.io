@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -67,11 +67,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-gpu-optimized-lattice-boltzmann-cfd-solver",
+          title: 'GPU-Optimized Lattice-Boltzmann CFD Solver',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_lbm_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -124,7 +124,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%61%64%69%74.%6B%6F%6C%61%72@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%61%61%64%69%74%76%6B%32@%69%6C%6C%69%6E%6F%69%73.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
