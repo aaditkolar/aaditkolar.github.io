@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GPU-Optimized Lattice-Boltzmann CFD Solver
-img: assets/img/12.jpg
+img: assets/img/lbm_cover.jpg
 importance: 1
 category: work
 related_publications: true
