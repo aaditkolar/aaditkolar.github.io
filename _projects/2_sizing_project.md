@@ -27,4 +27,4 @@ Do note how different the resultant designs are based on whether we aim to minim
 
 My main takeaway from this sizing project is that aircraft design is more complicated than it initially seems. It's very easy to say that we could just make aircraft more efficient if we used wings with higher aspect ratios or thinner airfoils, but there are often far more engineering trade-offs that are occuring in the background. This inspires my research into Multidisciplinary Optimization (MDO) and how it can be used in aircraft sizing problems, since there are intricate relationships between all parameters on an aircraft that an engineer has to be able to weigh to produce the right design for the right mission.
 
-Apologies for how text-heavy this article has been. Not many shiny images unfortunately. You can download my sizing code 
+Apologies for how text-heavy this article has been. Not many shiny images unfortunately. You can download my sizing code <a href="../../assets/code/sizing.ipynb">here</a>
